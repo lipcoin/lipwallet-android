@@ -1,4 +1,4 @@
-![ƀ](/images/icon.png) breadwallet for Android
+Lipwallet for Android
 ----------------------------------
 
 [![download](/images/icon-google-play.png)]
@@ -8,7 +8,7 @@
 
 This is the Android port of the breadwallet iOS app, which can be found [here](https://github.com/breadwallet/breadwallet/).
 
-#####a completely standalone bitcoin wallet:
+#####a completely standalone lipcoin wallet:
 
 Unlike many other bitcoin wallets, breadwallet is a real standalone bitcoin
 client. There is no server to get hacked or go down, so you can always access
